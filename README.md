@@ -1,4 +1,4 @@
-# mips
+# gcc-mips-compiler
 
 This repository includes MIPS assembly code examples compiled on a Linux virtual machine (Ubuntu 16.04 LTS).
 
